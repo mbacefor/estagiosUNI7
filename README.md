@@ -7,3 +7,8 @@ Disciplinas de estagio 1 e 2 do curso de Sistema de Informação da UNI7.
  **Prof. Marcelo Bezerra de Alcântara**
 
  @email: marcelo.alcantara@uni7.edu.br
+
+## Ementas
+
+* [Ementa de estagio 1](./Estagio1/Ementa.md)
+* [Ementa de estagio 2](./Estagio2/Ementa.md)
