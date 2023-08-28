@@ -5,3 +5,4 @@
 ## Alunos
 
 * Meu nome é Hugo Júnior
+* Meu nome é Rose Félix :sunflower:
