@@ -1,7 +1,8 @@
 # Alunos de 2023-02
 
 1. Meu nome é: Prof. Marcelo Bezerra de Alcântara.
-<<<<<<< HEAD
-2. Meu nome é: Matheus Nascimento de lemos
-=======
->>>>>>> 6480a9a032e4b21ce2392947f1fd44e762a29912
+2. Meu nome é: Melissa Viana. Link do projeto: https://github.com/melissareboucas/estagio1
+3. Meu nome é: Renan Almeida. Link do projeto: https://github.com/renanalmeidads/uni7_estagio_1
+4. Meu nome é: Matheus Nascimento de lemos
+
+LInk grupo ZAP:  https://chat.whatsapp.com/KY7Rit8Hf8uFE3IO58o5Xd
