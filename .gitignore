@@ -1,0 +1,17 @@
+.cache/
+coverage/
+dist/
+!dist/index.html
+*/node_modules/
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+yarn.lock
+/Estagio1/2023/02/webgl-phaser3-typescript-2mnbt/node_modules
