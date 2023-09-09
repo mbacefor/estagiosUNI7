@@ -1,4 +1,4 @@
-| `<img src='image/1694295403479.png' alt='SER' width='500' height='600' />` | **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
+| <img src='image/1694295403479.png' alt='SER' height='80px' /> | **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 
 | **ALUNO:**      |                               | **MATRÍCULA:**       |            |
