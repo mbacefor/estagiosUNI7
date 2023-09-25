@@ -1,7 +1,7 @@
 | `<img src='image/1694295403479.png' alt='SER' height='80px' />` | **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 
-| **ALUNO:**      | Melissa Viana                 | **MATRÍCULA:**       | 56008907   |
+| **ALUNO:**      | Matheus Lemos                 | **MATRÍCULA:**       | 56000734   |
 | :-------------------- | ----------------------------- | :-------------------------- | ---------- |
 | **DISCIPLINA:** | Estágio 1                    | **DATA DA PROVA:**    | 09/10/2023 |
 | **PROFESSOR:**  | Marcelo Bezerra de Alcântara | **TIPO DE PROVA:**    | Online     |
