@@ -1,7 +1,7 @@
 | <img src='image/1694295403479.png' alt='SER' height='80' /> | **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 
-| **ALUNO:**      |                               | **MATRÍCULA:**       |            |
+| **ALUNO:**      |   Maria Rosinele Félix                            | **MATRÍCULA:**       |    56036661        |
 | :-------------------- | ----------------------------- | :-------------------------- | ---------- |
 | **DISCIPLINA:** | Estágio 2                    | **DATA DA PROVA:**    | 09/10/2023 |
 | **PROFESSOR:**  | Marcelo Bezerra de Alcântara | **TIPO DE PROVA:**    | Online     |
@@ -19,7 +19,7 @@
 
 - Crie um repositório no github com nome do seu projeto;
 
-R. https://github.com/Rosinele/estagios2
+**R. https://github.com/Rosinele/estagios2**
 
 - Crie um arquivo README.md com os seguintes tópicos:
   1. ##### Objetivo
@@ -30,20 +30,23 @@ R. https://github.com/Rosinele/estagios2
   1. ##### Arquitetura
   1. ##### Configuração Ambiente
 
-R. https://github.com/Rosinele/my-little-forest/blob/main/README.md
+**R. https://github.com/Rosinele/my-little-forest/blob/main/README.md**
 
 ### **Questão 3.** Scrum
 
 - Crie no gitbub um kanban para o seu projeto;
 - Crie os itens de backlog no seu kanban.
 
-R. https://github.com/users/Rosinele/projects/3
+**R. https://github.com/users/Rosinele/projects/3**
 
 ### **Questão 4.** Arquitetura
 
 * Crie o esqueleto do projeto;
 
-R.
+**R. Projeto criado no [GitHub](https://github.com/Rosinele/my-little-forest)**
+
+
+--------------------------
 
 **MISSÃO INSTITUCIONAL**
 
