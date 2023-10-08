@@ -20,7 +20,7 @@
 ### **Questão 2.** Github
 
 - Crie um repositório no github com nome do seu projeto;
--- R: Criado projeto: [https://github.com/ochristianpompeu/a_nivea_de_laco](https://github.com/ochristianpompeu/a_nivea_de_laco)
+-- R: Criado projeto: [https://github.com/ochristianpompeu/maia](https://github.com/ochristianpompeu/maia)
 - Crie um arquivo README.md com os seguintes tópicos:
 
   1. #### Objetivo
@@ -30,12 +30,12 @@
   1. #### Necessidades e Funcionalidades
   1. #### Arquitetura
   1. #### Configuração Ambiente
--- R: Criado arquivo: [a_nivea_de_laco](https://github.com/ochristianpompeu/a_nivea_de_laco#readme)
+-- R: Criado arquivo: [maia](https://github.com/ochristianpompeu/maia#readme)
 
 ### **Questão 3.** Scrum
 
 - Crie no gitbub um kanban para o seu projeto;
--- R: Criado o projeto com o board: [board](https://github.com/users/ochristianpompeu/projects/1)
+-- R: Criado o projeto com o board: [board](https://github.com/users/ochristianpompeu/projects/3)
 - Crie os itens de backlog no seu kanban.
 -- R: Feito, backlog ainda será atualizado com mais atividades a medida que for evoluindo o projeto
 
