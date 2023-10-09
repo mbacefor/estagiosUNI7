@@ -1,7 +1,7 @@
-| <img src='image/1694295403479.png' alt='SER' height='80' /> | **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
+| `<img src='image/1694295403479.png' alt='SER' height='80' />` | **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 
-| **ALUNO:**      |                               | **MATRÍCULA:**       |            |
+| **ALUNO:**      | Marcéu Almeida Rodrigues     | **MATRÍCULA:**       | 56042329   |
 | :-------------------- | ----------------------------- | :-------------------------- | ---------- |
 | **DISCIPLINA:** | Estágio 2                    | **DATA DA PROVA:**    | 09/10/2023 |
 | **PROFESSOR:**  | Marcelo Bezerra de Alcântara | **TIPO DE PROVA:**    | Online     |
@@ -10,36 +10,61 @@
 
 ### **Questão 1.** Controle de versão - GIT
 
-- Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
-- Acesse o arquivo **EstagiosUni7\Estagio1\2023\02\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<seu nome completo>`-` Link do projeto:<link do projeto no github>`
+- Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. OK
+- Acesse o arquivo **EstagiosUni7\Estagio1\2023\02\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<seu nome completo>`-` Link do projeto:<link do projeto no github> OK`
 - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md do repositório.
   R: Adicionado novo aluno, commit de jhudsonsg
 
 ### **Questão 2.** Github
 
-- Crie um repositório no github com nome do seu projeto;
+- Crie um repositório no github com nome do seu projeto; OK
 - Crie um arquivo README.md com os seguintes tópicos:
 
   1. #### Objetivo
+
+     A aplicação procura facilitar e otimizar o processo de treinamento em academias de musculação. O objetivo central é dar uma autonomia ou independência ao aluno matriculado e não sobrecarregar o instrutor ou professor com perguntas básicas relacionadas a execução do exercício proposto em suas fichas de treino.
   2. #### Descrição do Sistema
+
+     A aplicação fará uma integração e consumirá dados da API RapidAPI. Onde será retornado ao sistema figuras GIF que exibirão a forma correta de execução do exercício.
   3. #### Partes Interessadas
+
+     Usuários, Professores e donos de academias de musculação.
   4. #### PERSONAS
+
+     Usuários:
+
+     Professores
+
+     Alunos
+
+     API:
+     *RapidAPI / ExerciseDB: Api utilizada como insumo para animações dos exercícios contidos na ficha de treino.
   5. #### Necessidades e Funcionalidades
-  6. #### Arquitetura
-  7. #### Configuração Ambiente
 
-### **Questão 3.** Scrum
 
-- Crie no gitbub um kanban para o seu projeto;
-- Crie os itens de backlog no seu kanban.
+     - CRUD(Aluno, Professor, Treino)
+     - Integração com API
+
+     1. #### Arquitetura
+
+        Linguagem de Programação: Javascript
+
+        Framework FrontEnd: React com NextJS
+
+        Banco de Dados: Postgres
+
+        Deploy: Vercel
+  6. #### Configuração Ambiente
+
+### **Questão 3.** Kanban
+
+    [https://trello.com/invite/b/Rpw3vllP/ATTIbbf77d3efd8294c55600f784b10feaeb87FF0CFD/kanban-e-academia](https://trello.com/invite/b/Rpw3vllP/ATTIbbf77d3efd8294c55600f784b10feaeb87FF0CFD/kanban-e-academia)
 
 ### **Questão 4.** Arquitetura
 
 * Crie o esqueleto do projeto;
 
 ![Arquitetura](image/e-academia2.drawio.png)
-
-
 
 **MISSÃO INSTITUCIONAL**
 
