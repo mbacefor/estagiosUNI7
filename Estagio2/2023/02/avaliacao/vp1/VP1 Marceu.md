@@ -1,4 +1,4 @@
-| `<img src='image/1694295403479.png' alt='SER' height='80' />` | **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
+| <img src='image/1694295403479.png' alt='SER' height='80' /> | **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 
 | **ALUNO:**      |                               | **MATRÍCULA:**       |            |
@@ -37,11 +37,7 @@
 
 * Crie o esqueleto do projeto;
 
-<img src='image/
-e-academia2.drawio.png'/>
-
-![aRQUITETURA](./image/
-e-academia2.drawio.png)
+![Arquitetura](image/e-academia2.drawio.png)
 
 
 
