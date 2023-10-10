@@ -13,7 +13,7 @@
 - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. OK
 - Acesse o arquivo **EstagiosUni7\Estagio1\2023\02\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<seu nome completo>`-` Link do projeto:<link do projeto no github> OK`
 - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md do repositório.
-  R: Adicionado novo aluno, commit de jhudsonsg
+  R: [adicionando link github](https://github.com/mbacefor/estagiosUNI7/commit/4f8e9707aee755f9e2bd13316dca05db69e42fb7)
 
 ### **Questão 2.** Github
 
