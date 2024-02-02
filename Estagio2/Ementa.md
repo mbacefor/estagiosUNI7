@@ -11,7 +11,7 @@
 
 **2 EMENTA**
 
-- Gestão de projetos Ageis;
+- Gestão de projetos Ageis e Gestão 3.0;
 - Uso de ferramenta de controle de versão: Github
 - World Wide Web;
 - Implementação de sistemas Web;
@@ -25,6 +25,7 @@
 
 UNIDADE I – Gestão de Projeto Ágeis
 
+- O que é Gestão 3.0?
 - O que é Scrum?
 - Criação de plano de projeto
 
